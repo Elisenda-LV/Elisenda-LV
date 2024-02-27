@@ -1,9 +1,9 @@
 
 
 # ✨ Hello, there!
-I'm Elisenda, a dedicated developer with a passion for creating elegant and user-friendly applications.
+I'm Elisenda, a passionate **front-end developer** with a **specialization in Angular**. Crafting engaging and **user-friendly** web experiences is not just my job – it's my obsession. With a knack for turning ideas into interactive, pixel-perfect realities, I thrive on the challenges of the ever-evolving tech landscape. Let's build something incredible together..
   
-As a front-end developer **specializing in Angular**, my expertise includes:
+#### My expertise includes:
 
 ![Angular](https://img.shields.io/badge/-Angular-red)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
