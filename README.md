@@ -1,6 +1,6 @@
-## 👻 Hello there!
 
-I'm Elisenda, a dedicated front-end developer with a passion for creating elegant and user-friendly applications. 
+
+I'm **Elisenda**, a dedicated **front-end developer** with a passion for creating **elegant and user-friendly** applications. 
 
 <br>
 
