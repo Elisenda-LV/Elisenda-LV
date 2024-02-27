@@ -1,7 +1,7 @@
 
 
 # ✨ Hello, there!
-I'm Elisenda, a passionate **front-end developer** with a **specialization in Angular**. Crafting engaging and **user-friendly** web experiences is not just my job – it's my obsession. With a knack for turning ideas into interactive, pixel-perfect realities, I thrive on the challenges of the ever-evolving tech landscape. Let's build something incredible together..
+I'm Elisenda, an enthusiastic **front-end developer** with a **specialization in Angular**. Crafting engaging and **user-friendly** web experiences is not just my job – it's my passion. With a knack for turning ideas into interactive, pixel-perfect realities, I thrive on the challenges of the ever-evolving tech landscape. Let's build something incredible together..
   
 #### My expertise includes:
 
@@ -43,9 +43,9 @@ Beyond my technical skills, I bring the following qualities to the table:
 
 In my free time, you'll often find me:
 
-- 📚 **Reading:** Exploring a diverse range of literature.
-- ☕ **Drinking Coffee:** I love coffee and enjoy sharing a cup with family and friends.
-- 🎸 **Listening to Music:** I'm a big fan of live music and often attend music festivals.
+- ☕ **Enjoying Coffee:** I always seek out a freshly brewed latte at trendy cafés. 
+- 🌍 **Traveling in my camper van:** I love to explore and discover new spots in a unique way.
+- 👾 **Creating visuals:** I unleash my artistic side through live coding (Hydra is my ally!)
 
 
 
