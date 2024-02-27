@@ -1,13 +1,9 @@
 
 
-I'm **Elisenda**, a dedicated **front-end developer** with a passion for creating **elegant and user-friendly** applications. 
-
-<br>
-
-
-## 🚀 Tech Skills
-
-As a front-end developer specializing in Angular, my expertise includes:
+# ✨ Hello, there!
+I'm Elisenda, a dedicated developer with a passion for creating elegant and user-friendly applications.
+  
+As a front-end developer **specializing in Angular**, my expertise includes:
 
 ![Angular](https://img.shields.io/badge/-Angular-red)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
@@ -17,12 +13,11 @@ As a front-end developer specializing in Angular, my expertise includes:
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple)
 ![Node.js](https://img.shields.io/badge/-Node.js-green)
 
-These skills, combined with a passion for clean code and an eye for design, allow me to create seamless and engaging web experiences.
+These skills, combined with **clean code** and an **eye for design**, allow me to create seamless and engaging web experiences.
 
 <br>
 
-## 🎯 Soft Skills
-
+### Soft Skills:
 
 Beyond my technical skills, I bring the following qualities to the table:
 
@@ -33,9 +28,9 @@ Beyond my technical skills, I bring the following qualities to the table:
 
 <br>
 
-## 🌱 Projects
+### Projects:
 
-#### Matchday (In Development)
+#### 🌱 Matchday (In Development)
 
 **Angular** application that offers a comprehensive solution for managing leagues and tournaments. Whether you're organizing sports events, gaming competitions, or any other type of tournament, this app simplifies the entire process.
 
@@ -44,7 +39,7 @@ Beyond my technical skills, I bring the following qualities to the table:
 
 <br>
 
-## ✨ About Me
+###  About Me:
 
 In my free time, you'll often find me:
 
