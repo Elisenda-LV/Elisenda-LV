@@ -17,16 +17,7 @@ These skills, combined with **clean code** and an **eye for design**, allow me t
 
 <br>
 
-### Soft Skills:
 
-Beyond my technical skills, I bring the following qualities to the table:
-
-- **Communication:** Strong verbal and written communication skills, ensuring effective collaboration within teams and clear documentation.
-- **Problem-Solving:** A knack for tackling complex challenges and finding innovative solutions to deliver high-quality software.
-- **Team Player:** Enjoy working collaboratively and thrive in a team-oriented environment.
-- **Adaptability:** Quick learner and adaptable to new technologies and methodologies.
-
-<br>
 
 ### Projects:
 
@@ -36,6 +27,17 @@ Beyond my technical skills, I bring the following qualities to the table:
 
 - **[Matchday - Front](https://github.com/Elisenda-LV/matchday-frontend.git):** An **Angular 17** app, powered by **Bootstrap 5** delivering dynamic and responsive user interfaces.
 - **[Matchday - Back](https://github.com/Elisenda-LV/matchday-backend.git):** This **REST API**, developed with **Node.js, Express, and Sequelize** to connect to **MariaDB**, includes user auth features such as register, login, forgot password, change password and logout.
+
+<br>
+
+### Soft Skills:
+
+Beyond my technical skills, I bring the following qualities to the table:
+
+- **Communication:** Strong verbal and written communication skills, ensuring effective collaboration within teams and clear documentation.
+- **Problem-Solving:** A knack for tackling complex challenges and finding innovative solutions to deliver high-quality software.
+- **Team Player:** Enjoy working collaboratively and thrive in a team-oriented environment.
+- **Adaptability:** Quick learner and adaptable to new technologies and methodologies.
 
 <br>
 
