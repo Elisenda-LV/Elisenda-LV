@@ -1,7 +1,8 @@
+![Encabezado](./header.png)
 
+<br>
 
-# ✨ Hello, there!
-I'm Elisenda, an enthusiastic **front-end developer** with a **specialization in Angular**. Crafting engaging and **user-friendly** web experiences is not just my job – it's my passion. With a knack for turning ideas into interactive, pixel-perfect realities, I thrive on the challenges of the ever-evolving tech landscape. Let's build something incredible together..
+I'm **Elisenda**, an enthusiastic **front-end developer** with a **specialization in Angular**. Crafting engaging and **user-friendly** web experiences is not just my job – it's my passion. With a knack for turning ideas into interactive, pixel-perfect realities, I thrive on the challenges of the ever-evolving tech landscape. Let's build something incredible together...
   
 #### My expertise includes:
 
