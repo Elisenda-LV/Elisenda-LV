@@ -1,4 +1,4 @@
-![Encabezado](./header.png)
+![Encabezado](./header2.png)
 
 <br>
 
