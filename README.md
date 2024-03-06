@@ -29,6 +29,12 @@ These skills, combined with **clean code** and an **eye for design**, allow me t
 - **[Matchday - Front](https://github.com/Elisenda-LV/matchday-frontend.git):** An **Angular 17** app, powered by **Bootstrap 5** delivering dynamic and responsive user interfaces.
 - **[Matchday - Back](https://github.com/Elisenda-LV/matchday-backend.git):** This **REST API**, developed with **Node.js, Express, and Sequelize** to connect to **MariaDB**, includes user auth features such as register, login, forgot password, change password and logout.
 
+#### 🌱 ITA Challenges (In Development)
+
+ITA Challenges is a coding challenges platform for students of the IT Academy. The goal is to practice coding through challenges that are divided by difficulty levels and programming language types. In this project, 9 people collaborated, including both **frontend (Angular)** and **backend (Java)** team members.
+
+- **[ITA Challenges - Front](https://github.com/IT-Academy-BCN/ita-challenges-frontend.git)** 
+
 <br>
 
 ### Soft Skills:
