@@ -28,6 +28,19 @@ These skills, combined with **clean code** and an **eye for design**, allow me t
  <br>
 
  ### Soft Skills:
+
+ Beyond my technical skills, I bring the following qualities to the table:
+- **Communication:** Strong verbal and written communication skills, ensuring effective collaboration within teams and clear documentation.
+- **Problem-Solving:** A knack for tackling complex challenges and finding innovative solutions to deliver high-quality software.
+- **Team Player:** Enjoy working collaboratively and thrive in a team-oriented environment.
+- **Adaptability:** Quick learner and adaptable to new technologies and methodologies.
+<br>
+
+### About Me:
+In my free time, you'll often find me:
+- ☕ **Enjoying Coffee:** I always seek out a freshly brewed latte at trendy cafés. 
+- 🌍 **Traveling in my camper van:** I love to explore and discover new spots in a unique way.
+- 👾 **Creating visuals:** I unleash my artistic side through live coding (Hydra is my ally!)
 <!--
 **Elisenda-LV/Elisenda-LV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
