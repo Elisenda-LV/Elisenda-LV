@@ -12,7 +12,9 @@ I'm **Elisenda**, an enthusiastic **front-end developer** with a **specializatio
 ![Node.js](https://img.shields.io/badge/-Node.js-green)
 
 These skills, combined with **clean code** and an **eye for design**, allow me to create seamless and engaging web experiences.
+
 <br>
+
 ### Projects:
 #### 🌱 Matchday (In Development)
 **Angular** application that offers a comprehensive solution for managing leagues and tournaments. Whether you're organizing sports events, gaming competitions, or any other type of tournament, this app simplifies the entire process.
